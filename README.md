@@ -94,7 +94,7 @@ npm run build
 
 ## Screenshots
 
-public/assets/image.png
+![image.alt](https://github.com/satyajit9178/FloraVision/blob/7fbc9897141b20cb5fb878271be4ff4e3e21b062/public/assets/image.png)
 
 ## Author
 
