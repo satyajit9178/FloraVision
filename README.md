@@ -3,6 +3,8 @@
 Flora Vision is a responsive plant-themed frontend website built using React, Vite, and Tailwind CSS.  
 The project focuses on clean UI design, reusable components, and responsive layouts.
 
+## Screenshots
+![image alt](https://github.com/satyajit9178/FloraVision/blob/028016d8d802559536224c6e8531b7b6b6ef770f/Screenshot%202026-05-11%20171619.png)
 ---
 
 ## Live Demo
@@ -90,11 +92,6 @@ npm run dev
 ## Production Build
 
 npm run build
-
-
-## Screenshots
-
-![image alt](https://github.com/satyajit9178/FloraVision/blob/028016d8d802559536224c6e8531b7b6b6ef770f/Screenshot%202026-05-11%20171619.png)
 
 ## Author
 
