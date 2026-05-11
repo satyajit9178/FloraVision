@@ -94,7 +94,7 @@ npm run build
 
 ## Screenshots
 
-<img width="1902" height="866" alt="image" src="https://github.com/user-attachments/assets/b380c24a-9503-42e7-bc47-c969398056ef" />
+public/assets/image.png
 
 ## Author
 
